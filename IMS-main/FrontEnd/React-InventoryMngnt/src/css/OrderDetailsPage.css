@@ -1,0 +1,12 @@
+.order-details {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .order-summary, .order-items, .order-total {
+    margin-bottom: 20px;
+  }
+  
